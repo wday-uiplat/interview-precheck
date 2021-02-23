@@ -1,0 +1,23 @@
+= Precheck project
+
+Hi! We look forward to speaking with you soon. To get ready for your interview, we request that you prepare your computer with a few programs.
+
+== Downloads
+
+* An IDE such as link:https://www.jetbrains.com/idea/download/[IntelliJ] or link:https://www.eclipse.org/downloads/[Eclipse]
+* Java 11 (or higher) from link:https://www.azul.com/downloads/zulu-community/?package=jdk[Azul] or link:https://www.oracle.com/java/technologies/javase-downloads.html[Oracle]
+* cURL command line utility or a browser plugin such as link:https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo[Advanced REST client] for Chrome or link:https://addons.mozilla.org/en-US/firefox/addon/restclient/[RESTClient] for Firefox to demonstrate REST calls.
+
+== Import project
+
+Once your IDE and Java downloads are ready, follow these steps to import this precheck project.
+
+. Import this project into your IDE by choosing the _Gradle project_ type. Your IDE should begin downloading the required Gradle dependencies automatically. If you need help, please consult your IDE's help guide.
+. Run the `com.wday.precheck.MyMain` program.
+. Verify that you see output similar to the text below.
++
+----
+08:31:04.371 [main] INFO com.wday.precheck.MyMain - Execution successful
+----
+
+. Great! You're all done for now. You may delete this project from your IDE. We will supply a similar project during the interview with the same setup steps.
