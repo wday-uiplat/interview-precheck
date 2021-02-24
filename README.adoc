@@ -6,7 +6,6 @@ Hi! We look forward to speaking with you soon. To get ready for your interview, 
 
 * An IDE such as link:https://www.jetbrains.com/idea/download/[IntelliJ] or link:https://www.eclipse.org/downloads/[Eclipse]
 * Java 11 (or higher) from link:https://www.azul.com/downloads/zulu-community/?package=jdk[Azul] or link:https://www.oracle.com/java/technologies/javase-downloads.html[Oracle]
-* cURL command line utility or a browser plugin such as link:https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo[Advanced REST client] for Chrome or link:https://addons.mozilla.org/en-US/firefox/addon/restclient/[RESTClient] for Firefox to demonstrate REST calls.
 
 == Import project
 
